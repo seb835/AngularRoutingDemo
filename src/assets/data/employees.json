@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Rattal",
+		"age": 35
+	},
+	{
+		"id": 2,
+		"name": "Croyan",
+		"age": 26
+	},
+	{
+		"id": 3,
+		"name": "Schtetteln",
+		"age": 43
+	},
+	{
+		"id": 4,
+		"name": "Moroenst",
+		"age": 24
+	}
+]

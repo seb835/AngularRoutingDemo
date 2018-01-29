@@ -3,9 +3,9 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-department-list',
   template: `
-    <p>
-      department-list works!
-    </p>
+    <ol>
+    <li>Hello</li>
+    </ol>
   `,
   styles: []
 })
